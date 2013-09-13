@@ -1,0 +1,15 @@
+{
+	"sublimelinter_mark_style": "outline",
+	"sublimelinter_notes": true,
+	"sublimelinter_syntax_map":
+      {
+        "Python Django": "python",
+        "Ruby on Rails": "ruby",
+        "C++": "c_cpplint",
+        "C": "c_cpplint"
+      },
+      "sublimelinter_executable_map":
+      {
+        "c_cpplint": "/Users/si-haowu/cpplint.py"
+      }
+}

@@ -1,15 +1,14 @@
 {
-	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Alignment",
 		"BracketHighlighter",
-		"DocBlockr",
+		"jQuery",
 		"JsFormat",
 		"Package Control",
-		"PythonTidy",
-		"sublime-jslint",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeLinter",
-		"Tag"
+		"SublimeLinter"
 	]
 }
