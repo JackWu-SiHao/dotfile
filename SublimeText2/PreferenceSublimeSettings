@@ -1,13 +1,15 @@
 {
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 12,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true,
-	"auto_complete_commit_on_tab": true,
-	"highlight_modified_tabs": true,
-	"bold_folder_labels": true,
-	"use_simple_full_screen": true
+	"use_simple_full_screen": true,
+	"show_full_path": true
 }
