@@ -1,3 +1,6 @@
 [
-	{ "keys": ["alt+shift+space"], "command": "expand_selection", "args": {"to": "scope"} }
+    { "keys": ["alt+left"], "command": "jump_back" },
+    { "keys": ["alt+right"], "command": "jump_forward" },
+    { "keys": ["ctrl+alt+d"], "command": "goto_definition" },
+    { "keys": ["ctrl+alt+r"], "command": "goto_reference" }
 ]
